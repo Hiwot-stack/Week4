@@ -1,0 +1,16 @@
+body {
+	background: #e1fcff;
+}
+.Vegitables {
+	background-color: green;
+}
+.Firut{
+	background-color: orange;
+}
+.Meat{
+	background-color: red;
+}
+.Dairy{
+	background-color: black;
+	color:white;
+}
